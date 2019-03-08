@@ -1,0 +1,10 @@
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\SoftDelete.dll.config
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\SoftDelete.dll
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\SoftDelete.pdb
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\EntityFramework.dll
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\EntityFramework.xml
+D:\Projekty\SoftDelete\SoftDelete\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projekty\SoftDelete\SoftDelete\obj\Debug\SoftDelete.csprojResolveAssemblyReference.cache
+D:\Projekty\SoftDelete\SoftDelete\obj\Debug\SoftDelete.dll
+D:\Projekty\SoftDelete\SoftDelete\obj\Debug\SoftDelete.pdb

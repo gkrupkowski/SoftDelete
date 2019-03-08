@@ -1,0 +1,13 @@
+c:\users\grzehu\documents\visual studio 2015\Projects\SoftDelete\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\EntityFramework.dll
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\SoftDelete.dll
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\SoftDelete.pdb
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\EntityFramework.xml
+D:\Projekty\SoftDelete\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projekty\SoftDelete\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojResolveAssemblyReference.cache
+D:\Projekty\SoftDelete\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+D:\Projekty\SoftDelete\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
